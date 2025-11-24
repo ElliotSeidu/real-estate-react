@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/real-estate-react/static/css/main.d77ecf7f.css",
-    "main.js": "/real-estate-react/static/js/main.c714b305.js",
+    "main.js": "/real-estate-react/static/js/main.372fa7fd.js",
     "static/media/brand_img.png": "/real-estate-react/static/media/brand_img.e2eb95b624915fbff01e.png",
+    "static/media/header_img.webp": "/real-estate-react/static/media/header_img.54185f96d263d8381c2d.webp",
     "static/media/project_img_3.jpg": "/real-estate-react/static/media/project_img_3.3f324fa6e1bd2cab2758.jpg",
     "static/media/project_img_6.jpg": "/real-estate-react/static/media/project_img_6.636fc5c5ccd7762673cc.jpg",
     "static/media/project_img_2.jpg": "/real-estate-react/static/media/project_img_2.d310e750c38a1c592446.jpg",
@@ -21,10 +22,10 @@
     "static/media/left_arrow.svg": "/real-estate-react/static/media/left_arrow.38c61a9cb0111cd78d4c52e815708ee8.svg",
     "static/media/right_arrow.svg": "/real-estate-react/static/media/right_arrow.3e841722465c16e709b7d522054f68e5.svg",
     "main.d77ecf7f.css.map": "/real-estate-react/static/css/main.d77ecf7f.css.map",
-    "main.c714b305.js.map": "/real-estate-react/static/js/main.c714b305.js.map"
+    "main.372fa7fd.js.map": "/real-estate-react/static/js/main.372fa7fd.js.map"
   },
   "entrypoints": [
     "static/css/main.d77ecf7f.css",
-    "static/js/main.c714b305.js"
+    "static/js/main.372fa7fd.js"
   ]
 }
