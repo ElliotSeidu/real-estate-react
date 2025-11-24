@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/real-estate-react/static/css/main.d77ecf7f.css",
+    "main.js": "/real-estate-react/static/js/main.329e45a1.js",
+    "static/media/brand_img.png": "/real-estate-react/static/media/brand_img.e2eb95b624915fbff01e.png",
+    "static/media/project_img_3.jpg": "/real-estate-react/static/media/project_img_3.3f324fa6e1bd2cab2758.jpg",
+    "static/media/project_img_6.jpg": "/real-estate-react/static/media/project_img_6.636fc5c5ccd7762673cc.jpg",
+    "static/media/project_img_2.jpg": "/real-estate-react/static/media/project_img_2.d310e750c38a1c592446.jpg",
+    "static/media/project_img_5.jpg": "/real-estate-react/static/media/project_img_5.461273d04a16dedc4d79.jpg",
+    "static/media/project_img_4.jpg": "/real-estate-react/static/media/project_img_4.b4598ca54ebb822f3e2e.jpg",
+    "static/media/project_img_1.jpg": "/real-estate-react/static/media/project_img_1.342f9c1afe49c33cb22a.jpg",
+    "static/media/profile_img_1.png": "/real-estate-react/static/media/profile_img_1.a18bc8661c9f5aab7cd1.png",
+    "static/media/profile_img_2.png": "/real-estate-react/static/media/profile_img_2.87edc37f1a8184bed8e4.png",
+    "static/media/profile_img_3.png": "/real-estate-react/static/media/profile_img_3.b4f92203c8af0994fd4a.png",
+    "static/media/logo_dark.svg": "/real-estate-react/static/media/logo_dark.b51a75e1959f1d1f62bca2e7dfdaec75.svg",
+    "static/media/logo.svg": "/real-estate-react/static/media/logo.e3285c1bf13781a7fe2952fb3de7da4c.svg",
+    "static/media/star_icon.svg": "/real-estate-react/static/media/star_icon.9cbf6c7d0e41a31015e034d67d4f865f.svg",
+    "index.html": "/real-estate-react/index.html",
+    "static/media/cross_icon.svg": "/real-estate-react/static/media/cross_icon.9a64794069e04939df2002d90672164c.svg",
+    "static/media/menu_icon.svg": "/real-estate-react/static/media/menu_icon.f6a63a18e3c68d807e50b1037f3e3555.svg",
+    "static/media/left_arrow.svg": "/real-estate-react/static/media/left_arrow.38c61a9cb0111cd78d4c52e815708ee8.svg",
+    "static/media/right_arrow.svg": "/real-estate-react/static/media/right_arrow.3e841722465c16e709b7d522054f68e5.svg",
+    "main.d77ecf7f.css.map": "/real-estate-react/static/css/main.d77ecf7f.css.map",
+    "main.329e45a1.js.map": "/real-estate-react/static/js/main.329e45a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d77ecf7f.css",
+    "static/js/main.329e45a1.js"
+  ]
+}
